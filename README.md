@@ -1,2 +1,2 @@
 # MySql
-Creating and changing Data Bases with MySql
+Creating and Updating Data Bases with MySql
